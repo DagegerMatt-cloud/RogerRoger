@@ -1,0 +1,85 @@
+Dev log 
+
+
+V1 changes:
+ 
+20/10/2024
+
+Turned the two big media plates 180©
+
+Fixed position of one of the guard rails
+
+Changed source Location of media players to be in the unreal folders and not pulling from my downloads
+
+Added glass
+
+Changed tree in left side room.
+
+Added text above the tree
+
+Added interaction with the tree
+
+Changed windows from using M_Glass material to M_Glass_Clean Master material. This elimates some of the wierd effects
+
+Added some lights to the main lower hall
+
+Replaced some old 'double doors' with actual double door blueprints
+
+Added an working elevator
+
+Added Elevator Buttons
+
+Changed door sounds
+
+Seperated door opening and closing sounds
+
+Added elevator moving sound
+
+Changed windows to be indented
+
+Added garfiled 
+
+added cylinders with *collision*
+
+Added gafrield tube
+
+added vent
+
+Added Locked door
+
+Added crouching
+
+Decreased jump height
+
+Built more of the 2nd floor
+
+Adding chairs and table pack https://www.unrealengine.com/marketplace/en-US/product/twinmotion-chairs-tables-pack-1
+
+Re meshing the ENTIRE BUILDING So its not just 2 big meshes 🙃
+
+Made an object that spins and plays sound only when being looked at by the player
+
+Expanded the 2nd floor
+
+Added a security room
+
+Added an interact feature on some character models
+
+Created a conference room
+
+Imported Elevator from Mr Stimpy
+
+Elevator Doors now can call the elevator
+
+Made a locked door by button yay
+
+Added a spinning plane.... Somewhere :)
+
+Added Better supports and floor to the catwalk
+
+Added ladder
+
+Added Elevator
+
+Added Game Start level
+
